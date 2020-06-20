@@ -1,0 +1,2 @@
+# ruksin
+Percobaan skrip
